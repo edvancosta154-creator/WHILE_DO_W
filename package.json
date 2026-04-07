@@ -1,0 +1,24 @@
+{
+  "name": "while_do_w",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edvancosta154-creator/WHILE_DO_W.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/edvancosta154-creator/WHILE_DO_W/issues"
+  },
+  "homepage": "https://github.com/edvancosta154-creator/WHILE_DO_W#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
